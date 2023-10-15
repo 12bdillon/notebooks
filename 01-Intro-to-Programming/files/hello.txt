@@ -1,3 +1,4 @@
 hello. I am a fine file.
 I have three lines.
 Three lines are fine for this dear old file of mine.
+This is a fourth line of text
